@@ -1,11 +1,11 @@
-# Snappy - Red Social Moderna
+# SnappyFriends - Red Social
 
 ![Next.js](https://img.shields.io/badge/Next.js-v14.0.0-black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v3.3-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-v5.0-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-Snappy es una red social moderna desarrollada con **Next.js 14**, **TypeScript** y **TailwindCSS**, que permite a los usuarios conectarse, compartir contenido y comunicarse de manera intuitiva. Diseñada para brindar una experiencia fluida, dinámica y segura.
+SnappyFriends es una red social moderna desarrollada con **Next.js 14**, **React**, **TypeScript** y **TailwindCSS**, que permite a los usuarios conectarse, compartir contenido y comunicarse de manera intuitiva. Diseñada para brindar una experiencia fluida, dinámica y segura.
 
 ---
 
@@ -69,27 +69,6 @@ Esta plataforma combina un diseño minimalista con funcionalidades completas: au
 
 ---
 
-## 🔄 Flujo de Usuario
-
-1. Registro/Login
-2. Onboarding con selección de intereses
-3. Visualización del feed principal
-4. Interacciones sociales y creación de contenido
-5. Comunicación directa por chat
-6. Gestión del perfil y ajustes
-
----
-
-## 🎨 Interfaz de Usuario
-
-- Diseño moderno y minimalista
-- Totalmente responsiva
-- Navegación clara e intuitiva
-- Animaciones suaves y experiencia fluida
-- Tema claro/oscuro (en desarrollo)
-
----
-
 ## 🔒 Seguridad
 
 - Autenticación JWT y protección de rutas
@@ -99,22 +78,11 @@ Esta plataforma combina un diseño minimalista con funcionalidades completas: au
 
 ---
 
-## 🚀 Próximas Características
-
-- Integración con otras redes sociales
-- Sistema de eventos y calendario social
-- Marketplace interno
-- Transmisiones en vivo
-- Filtros y efectos para fotos/videos
-- Sistema de recompensas y logros
-
----
-
 ## 📂 Instalación y Ejecución
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/tu-usuario/snappy-front.git
+git clone https://github.com/CarlosDanielOK/snappy-front.git
 cd snappy-front
 
 # Instala dependencias
