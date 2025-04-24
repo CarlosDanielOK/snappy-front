@@ -17,7 +17,7 @@ SnappyFriends es una red social moderna desarrollada con **Next.js 14**, **React
 
 ## 📺 Demo en YouTube
 
-📹 https://www.youtube.com/watch?v=OCqm5zO_2JM
+📲 https://www.youtube.com/watch?v=OCqm5zO_2JM
 
 ---
 
@@ -27,7 +27,7 @@ SnappyFriends es una red social moderna desarrollada con **Next.js 14**, **React
 
 ---
 
-## 🖼️ Vista Previa
+## 💻 Vista Previa
 
 ![Vista Previa de SnappyFriends](./assets/capturadesktop.png)
 ![Vista Previa de SnappyFriends](./assets/capturamobile.png)
