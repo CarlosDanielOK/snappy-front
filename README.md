@@ -9,6 +9,30 @@ SnappyFriends es una red social moderna desarrollada con **Next.js 14**, **React
 
 ---
 
+## 🌐 Deploy
+
+🔗 [Acceder a la aplicación](https://snappyfriends.vercel.app)
+
+---
+
+## 📺 Demo en YouTube
+
+📹 [Ver Demo de SnappyFriends](https://www.youtube.com/watch?v=TU_LINK_DEMO)
+
+---
+
+## 🧠 Backend
+
+🔧 Repositorio Backend: [CarlosDanielOK/snappy-back](https://github.com/CarlosDanielOK/snappy-back)
+
+---
+
+## 🖼️ Vista Previa
+
+![Vista Previa de SnappyFriends](https://raw.githubusercontent.com/CarlosDanielOK/snappy-front/main/public/preview-snappyfriends.png)
+
+---
+
 ## 📱 Descripción General
 
 Esta plataforma combina un diseño minimalista con funcionalidades completas: autenticación, publicaciones, mensajería en tiempo real, sistema de seguidores, suscripciones y configuración personalizada.
